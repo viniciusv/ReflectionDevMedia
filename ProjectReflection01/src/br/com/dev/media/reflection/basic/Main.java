@@ -1,4 +1,4 @@
-package br.com.dev.media.reflection;
+package br.com.dev.media.reflection.basic;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
